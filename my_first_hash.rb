@@ -14,7 +14,7 @@ def shipping_manifest()
 
 end
 
-def retrieving_data
+def retrieval
   shipping_manifest = {
   "whale bone corsets" => 5,
   "porcelain vases" => 2, 
