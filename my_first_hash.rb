@@ -16,12 +16,16 @@ def retrieval
   shipping_manifest = {
   "whale bone corsets" => 5,
   "porcelain vases" => 2, 
-  "oil paintings" => 3}
+  "oil paintings" => 3,
+  "musket" => 2,
+  "gun powder" => 4
+  }
   
   shipping_manifest["whale bone corsets"]
   shipping_manifest["porcelain vases"]  
   shipping_manifest["oil paintings"]
- 
+  shipping_manifest["musket"]
+  shipping_manifest["gun powder"]
 end
 
 def adding
