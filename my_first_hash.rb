@@ -21,11 +21,7 @@ def retrieval
   "gun powder" => 4
   }
   
-  shipping_manifest["whale bone corsets"]
-  shipping_manifest["porcelain vases"]  
-  shipping_manifest["oil paintings"]
-  shipping_manifest["musket"]
-  shipping_manifest["gun powder"]
+  puts shipping_manifest["oil paintings"]
 end
 
 def adding
