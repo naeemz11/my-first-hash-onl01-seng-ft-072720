@@ -23,7 +23,7 @@ def retrieval
   "gun powder" => 4
   }
   
-
+shipping_manifest["oil paintings"]
 end
 
 def adding
